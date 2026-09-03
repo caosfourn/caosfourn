@@ -3,9 +3,9 @@
 # Hi there, I'm a Data Analyst & Data Scientist 👋
 ### 📊 Business Intelligence | Machine Learning | Financial & Risk Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caosfourn/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caosfourn)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhdnhannd@gmail.com)
 
 </div>
 
@@ -84,6 +84,6 @@ Results-driven **Data Analyst / Data Scientist / BI Developer** experienced in b
 
 <div align="center">
 
-📬 **Get in Touch**: [LinkedIn](https://linkedin.com) • [Email](mailto:your-email@example.com)
+📬 **Get in Touch**: [LinkedIn](https://linkedin.com) • [Email](mailto:huynhdnhannd@gmail.com)
 
 </div>
